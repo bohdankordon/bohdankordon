@@ -1,32 +1,35 @@
 # Bohdan Kordon
 
-Software Engineer focused on backend and full-stack development.
+Java Backend Developer with commercial Java experience and hands-on ownership of production-deployed backend systems.
 
-**Java · Spring Boot · TypeScript · Node.js · PostgreSQL · Docker**
+**Java 21 · Spring Boot · PostgreSQL · JPA/Hibernate · Docker · TypeScript / Node.js**
 
-## Selected projects
-
-### [Fleet GPS](https://github.com/bohdankordon/fleet-gps)
-Production-deployed fleet monitoring and operations platform for approximately
-58 vehicles, with GPS history, analytics, alerts, access control and Telegram
-notifications.
-
-`TypeScript` `NestJS` `Next.js` `PostgreSQL` `Prisma` `Docker`
+## Selected Projects
 
 ### [Vulcan Schedule Monitor](https://github.com/bohdankordon/vulcan-schedule-monitor)
-Java service for monitoring schedule changes in Poland's VULCAN system,
-featuring persistent state reconciliation, reliable notification delivery and
-secure session handling.
 
-`Java 21` `Spring Boot` `PostgreSQL` `JPA` `Flyway` `Testcontainers`
+Java 21 / Spring Boot service for monitoring schedule changes in Poland's VULCAN system and delivering Telegram notifications.
+
+Built around deterministic PostgreSQL reconciliation, transactional notification delivery, secure session handling, and automated integration testing.
+
+`Java 21` `Spring Boot` `PostgreSQL` `JPA/Hibernate` `Flyway` `Testcontainers` `Docker`
+
+### [Fleet GPS](https://github.com/bohdankordon/fleet-gps)
+
+Production-deployed self-hosted fleet monitoring and operations platform running with nearly 60 vehicles.
+
+Includes GPS history reconciliation, trip/stop analytics, alerts, access control, reporting, Telegram notifications, monitoring, backups, and production operations.
+
+`TypeScript` `NestJS` `PostgreSQL` `Prisma` `Next.js` `Docker`
 
 ## Technologies
 
-**Backend:** Java, Spring Boot, TypeScript, Node.js, NestJS, C#, .NET  
-**Data:** PostgreSQL, SQL, Prisma, JPA/Hibernate, Flyway, Oracle  
-**Engineering:** Docker, GitHub Actions, JUnit, Testcontainers, WireMock  
-**AI-assisted development:** Codex, OpenCode, ChatGPT, DeepSeek
+**Java Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Maven  
+**Data:** PostgreSQL, SQL, Flyway, Oracle, PL/SQL, Prisma  
+**Testing:** JUnit, Testcontainers, WireMock  
+**Engineering:** Docker, GitHub Actions, Git, REST APIs  
+**Additional:** TypeScript, Node.js, NestJS, C#, .NET, Next.js, React
 
 📍 Warsaw, Poland  
-💼 Open to Backend, Java, Full-Stack and .NET opportunities  
+💼 Open to Java, Backend and Software Engineer opportunities  
 🔗 [LinkedIn](https://www.linkedin.com/in/bohdankordon)
